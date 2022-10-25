@@ -1,0 +1,9 @@
+com/dukandar_online_seller/BuildConfig.java
+ com.dukandar_online_seller.BuildConfig
+com/dukandar_online_seller/MainApplication.java
+ com.dukandar_online_seller.MainApplication
+ com.dukandar_online_seller.MainApplication$1
+com/dukandar_online_seller/MainActivity.java
+ com.dukandar_online_seller.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

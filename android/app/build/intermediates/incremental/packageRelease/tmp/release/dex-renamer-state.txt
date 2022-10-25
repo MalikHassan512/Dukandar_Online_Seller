@@ -1,0 +1,4 @@
+#Fri Mar 11 02:25:37 PKT 2022
+base.0=E\:\\dukandar_online_seller\\android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
